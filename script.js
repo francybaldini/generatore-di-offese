@@ -9,7 +9,8 @@ const offese = [
     "Ti spiezzo in due",
     "vattene a fanculandia con un tappo in culo",
     "stronzo di merda signfica due volte stronzo",
-    "Dhe, sembri pescato dal secchi dell'umido"
+    "Dhe, sembri pescato dal secchi dell'umido",
+    "Roma non è stata costruita in un giorno, ma con te ci hanno speso solo due spicci"
 ];
 
 
