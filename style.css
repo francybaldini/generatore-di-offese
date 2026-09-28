@@ -1,0 +1,30 @@
+.tasti button{
+   border-radius: 5px;
+   border: 2px solid;
+   color: black;
+   background-color: lightgray;
+   font-size: 15px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+.tasti {
+    display: flex;
+   justify-content: center; 
+   gap: 20px;
+}
+
+.scritta{
+    text-align: center;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
