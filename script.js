@@ -8,7 +8,8 @@ const offese = [
     "figlio di un canaccio",
     "Ti spiezzo in due",
     "vattene a fanculandia con un tappo in culo",
-    "stronzo di merda signfica due volte stronzo"
+    "stronzo di merda signfica due volte stronzo",
+    "Dhe, sembri pescato dal secchi dell'umido"
 ];
 
 
